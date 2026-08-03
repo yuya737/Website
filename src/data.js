@@ -2,8 +2,8 @@ export const profile = {
     name: 'Yuya Kawakami',
     title: 'Ph.D. Student, Computer Science, UC Davis',
     photo: '/images/Headshot.jpg',
-    bio: `I am a Ph.D. student in the <a href="https://www.cs.ucdavis.edu/~ma/people.html" target="_blank" rel="noopener"><b>VIDI Research Group at UC Davis</b></a>, advised by Dr. Kwan-Liu Ma. <br>
-    I am also a Visiting PhD Researcher at <b>Scripps Institution of Oceanography</b>, where I work with Dr. Daniel Cayan and Dr. Tom Corringham at the intersection of Computer Science and Climate Science.<br><br>
+    bio: `I am a Ph.D. student in the <a href="https://www.cs.ucdavis.edu/~ma/people.html" target="_blank" rel="noopener"><b>VIDI Research Group at UC Davis</b></a>, advised by <a href="https://www.cs.ucdavis.edu/~ma/" target="_blank" rel="noopener">Dr. Kwan-Liu Ma</a>. <br>
+    I am also a Visiting PhD Researcher at <b>Scripps Institution of Oceanography</b>, where I work with <a href="https://dcayan.scrippsprofiles.ucsd.edu/" target="_blank" rel="noopener">Dr. Daniel Cayan</a> and <a href="https://tcorringham.scrippsprofiles.ucsd.edu/" target="_blank" rel="noopener">Dr. Tom Corringham</a> at the intersection of Computer Science and Climate Science.<br><br>
     My current research interests span GeoAI (e.g., climate risk assessment such as flood damage prediction), Interpretablity for GeoAI, and <em>Visual Analytics x Climate</em>, and my dissertation focuses on Visual Analytics for Geospatial Data.
   <br><br>
   Before UC Davis, I received my M.S. from the University of Oregon, where I worked on HPC + Vis,
