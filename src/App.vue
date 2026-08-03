@@ -40,7 +40,7 @@ function formatDate(yearMonth) {
       <ul class="updates">
         <li v-for="update in updates" :key="update.date + update.text">
           <span class="date">{{ formatDate(update.date) }}</span>
-          <span>{{ update.text }}</span>
+          <span v-html="update.text"></span>
         </li>
       </ul>
     </section>

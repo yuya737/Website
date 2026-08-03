@@ -3,7 +3,7 @@ export const profile = {
     title: 'Ph.D. Student, Computer Science, UC Davis',
     photo: '/images/Headshot.jpg',
     bio: `I am a Ph.D. student in the <a href="https://www.cs.ucdavis.edu/~ma/people.html" target="_blank" rel="noopener"><b>VIDI Research Group at UC Davis</b></a>, advised by <a href="https://www.cs.ucdavis.edu/~ma/" target="_blank" rel="noopener">Dr. Kwan-Liu Ma</a>. <br>
-    I am also a Visiting PhD Researcher at <b>Scripps Institution of Oceanography</b>, where I work with <a href="https://dcayan.scrippsprofiles.ucsd.edu/" target="_blank" rel="noopener">Dr. Daniel Cayan</a> and <a href="https://tcorringham.scrippsprofiles.ucsd.edu/" target="_blank" rel="noopener">Dr. Tom Corringham</a> at the intersection of Computer Science and Climate Science.<br><br>
+    I am also a Visiting Ph.D. Researcher at <b>Scripps Institution of Oceanography at UC San Diego</b>, where I work with <a href="https://dcayan.scrippsprofiles.ucsd.edu/" target="_blank" rel="noopener">Dr. Daniel Cayan</a> and <a href="https://tcorringham.scrippsprofiles.ucsd.edu/" target="_blank" rel="noopener">Dr. Tom Corringham</a> at the intersection of Computer Science and Climate Science.<br><br>
     My current research interests span GeoAI (e.g., climate risk assessment such as flood damage prediction), Interpretablity for GeoAI, and <em>Visual Analytics x Climate</em>, and my dissertation focuses on Visual Analytics for Geospatial Data.
   <br><br>
   Before UC Davis, I received my M.S. from the University of Oregon, where I worked on HPC + Vis,
@@ -22,6 +22,7 @@ export const profile = {
 // Newest first.
 export const updates = [
     { date: '2026-07', text: 'I will be at Scripps for the month for a Summer Appointment!' },
+    { date: '2026-04', text: 'Our work was featured on the <a href="https://engineering.ucdavis.edu/news/new-visual-analysis-tool-calms-climate-data-storm" target="_blank" rel="noopener">UC Davis College of Engineering</a> news page.' },
 ]
 
 // Newest first.
