@@ -1,0 +1,103 @@
+export const profile = {
+    name: 'Yuya Kawakami',
+    title: 'Ph.D. Student, Computer Science, UC Davis',
+    photo: '/images/Headshot.jpg',
+    bio: `I am a Ph.D. student in the <a href="https://www.cs.ucdavis.edu/~ma/people.html" target="_blank" rel="noopener"><b>VIDI Research Group at UC Davis</b></a>, advised by Dr. Kwan-Liu Ma. <br>
+    I am also a Visiting PhD Researcher at <b>Scripps Institution of Oceanography</b>, where I work with Dr. Daniel Cayan and Dr. Tom Corringham at the intersection of Computer Science and Climate Science.<br><br>
+    My current research interests span GeoAI (e.g., climate risk assessment such as flood damage prediction), Interpretablity for GeoAI, and <em>Visual Analytics x Climate</em>, and my dissertation focuses on Visual Analytics for Geospatial Data.
+  <br><br>
+  Before UC Davis, I received my M.S. from the University of Oregon, where I worked on HPC + Vis,
+  particularly in situ visualization for high-performance computing applications, and my B.A. in
+  Mathematics and Computer Science from Grinnell College.
+  <br><br>
+  Feel free to reach out at ykawakami [at] ucdavis.edu.`
+    ,
+    links: [
+        { label: 'Google Scholar', url: 'https://scholar.google.com/citations?user=mYebBPMAAAAJ&hl=en' },
+        { label: 'LinkedIn', url: 'https://www.linkedin.com/in/yuya-kawakami/' },
+        { label: 'GitHub', url: 'https://github.com/yuya737' },
+    ],
+}
+
+// Newest first.
+export const updates = [
+    { date: '2026-07', text: 'I will be at Scripps for the month for a Summer Appointment!' },
+]
+
+// Newest first.
+export const publications = [
+    {
+        title:
+            'DELUGE: Towards Continental-Scale Daily Pluvial Flood Damage Prediction via Interpretable Conditioning on Foundation Model Embeddings',
+        authors: 'Yuya Kawakami, Daniel Cayan, Dongyu Liu, Kwan-Liu Ma, Tom Corringham',
+        venue: 'arXiv preprint',
+        year: '2026',
+        teaser: 'images/deluge-teaser.png',
+        links: [
+            { label: 'arXiv', url: 'https://arxiv.org/abs/2607.16050' },
+        ],
+    },
+    {
+        title: 'ClimateSOM: A Visual Analysis Workflow for Climate Ensemble Datasets',
+        authors: 'Yuya Kawakami, Daniel Cayan, Dongyu Liu, Kwan-Liu Ma',
+        venue: 'IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS)',
+        year: '2025',
+        teaser: 'images/climatesom-teaser.png',
+        links: [
+            { label: 'arXiv', url: 'https://arxiv.org/abs/2508.06732' },
+            { label: 'DOI', url: 'https://doi.org/10.1109/TVCG.2025.3634788' },
+        ],
+    },
+    {
+        title: 'Watering the Future: Assessing a Visualization Design for Accessible Comprehension of Water Management',
+        authors: 'Sarah Yuniar, Yuya Kawakami, Logan Ga-sing Tang, Kwan-Liu Ma',
+        venue: 'IEEE VIS',
+        year: '2025',
+        teaser: 'images/waterbottle-teaser.png',
+        links: [
+            {
+                label: 'IEEE Xplore', url: 'https://ieeexplore.ieee.org/abstract/document/11298853'
+            }],
+    },
+    {
+        title:
+            'The ECP ALPINE project: In situ and post hoc visualization infrastructure and analysis capabilities for exascale',
+        authors: 'James Ahrens, Marco Arienti, Utkarsh Ayachit, ..., Yuya Kawakami, ...',
+        venue: 'The International Journal of High Performance Computing Applications',
+        year: '2025',
+        teaser: 'images/alpine-teaser.png',
+        links: [
+            { label: 'DOI', url: 'https://doi.org/10.1177/10943420241286521' },
+        ],
+    },
+    {
+        title: 'HexTiles and Semantic Icons for MAUP-Aware Multivariate Geospatial Visualizations',
+        authors: 'Yuya Kawakami, Sarah Yuniar, Kwan-Liu Ma',
+        venue: 'arXiv preprint',
+        year: '2024',
+        teaser: 'images/hextiles-teaser.png',
+        links: [
+            { label: 'arXiv', url: 'https://arxiv.org/abs/2407.16897' },
+        ],
+    },
+    {
+        title: 'An Entropy-Based Approach for Identifying User-Preferred Camera Positions',
+        authors: 'Nicole Marsaglia, Yuya Kawakami, Samuel D. Schwartz, Stefan Fields, Hank Childs',
+        venue: 'IEEE Symposium on Large Data Analysis and Visualization (LDAV)',
+        year: '2021',
+        teaser: 'images/camera-teaser.png',
+        links: [
+            { label: 'DOI', url: 'https://doi.org/10.1109/LDAV53230.2021.00015' },
+        ],
+    },
+    {
+        title: 'Benchmarking In Situ Triggers Via Reconstruction Error',
+        authors: 'Yuya Kawakami, Nicole Marsaglia, Matthew Larsen, Hank Childs',
+        venue: 'In Situ Infrastructures for Enabling Extreme-Scale Analysis and Visualization (ISAV, held with SC)',
+        year: '2020',
+        teaser: 'images/trigger-teaser.png',
+        links: [
+            { label: 'DOI', url: 'https://doi.org/10.1145/3426462.3426469' },
+        ],
+    },
+]
