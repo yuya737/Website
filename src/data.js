@@ -21,6 +21,7 @@ export const profile = {
 
 // Newest first.
 export const updates = [
+    { date: '2026-08', text: 'Our paper, DELUGE, was accepted to appear at <b>ACM SIGSPATIAL 2026</b>!' },
     { date: '2026-07', text: 'I will be at Scripps for the month for a Summer Appointment!' },
     { date: '2026-04', text: 'Our work was featured on the <a href="https://engineering.ucdavis.edu/news/new-visual-analysis-tool-calms-climate-data-storm" target="_blank" rel="noopener">UC Davis College of Engineering</a> news page.' },
 ]
@@ -31,7 +32,7 @@ export const publications = [
         title:
             'DELUGE: Towards Continental-Scale Daily Pluvial Flood Damage Prediction via Interpretable Conditioning on Foundation Model Embeddings',
         authors: 'Yuya Kawakami, Daniel Cayan, Dongyu Liu, Kwan-Liu Ma, Tom Corringham',
-        venue: 'arXiv preprint',
+        venue: 'ACM SIGSPATIAL (to appear)',
         year: '2026',
         teaser: 'images/deluge-teaser.png',
         links: [
