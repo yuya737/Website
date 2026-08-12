@@ -22,8 +22,9 @@ export const profile = {
 // Newest first.
 export const updates = [
     { date: '2026-08', text: 'Our paper, DELUGE, was accepted to appear at <b>ACM SIGSPATIAL 2026</b>!' },
+    { date: '2026-08', text: 'I passed my Qualifying Exam!' },
     { date: '2026-07', text: 'I will be at Scripps for the month for a Summer Appointment!' },
-    { date: '2026-04', text: 'Our work was featured on the <a href="https://engineering.ucdavis.edu/news/new-visual-analysis-tool-calms-climate-data-storm" target="_blank" rel="noopener">UC Davis College of Engineering</a> news page.' },
+    { date: '2026-04', text: 'Our work was featured on the <a href="https://engineering.ucdavis.edu/news/new-visual-analysis-tool-calms-climate-data-storm" target="_blank" rel="noopener">UC Davis College of Engineering</a> news page!' },
 ]
 
 // Newest first.
