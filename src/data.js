@@ -2,8 +2,8 @@ export const profile = {
     name: 'Yuya Kawakami',
     title: 'Ph.D. Candidate, Computer Science, UC Davis',
     photo: '/images/Headshot.jpg',
-    bio: `I am a Ph.D. Candidate in the <a href="https://www.cs.ucdavis.edu/~ma/people.html" target="_blank" rel="noopener"><b>VIDI Research Group at UC Davis</b></a>, advised by <a href="https://www.cs.ucdavis.edu/~ma/" target="_blank" rel="noopener">Dr. Kwan-Liu Ma</a>. <br>
-    I am also a Visiting Ph.D. Researcher at <b>Scripps Institution of Oceanography at UC San Diego</b>, where I work with <a href="https://dcayan.scrippsprofiles.ucsd.edu/" target="_blank" rel="noopener">Dr. Daniel Cayan</a> and <a href="https://tcorringham.scrippsprofiles.ucsd.edu/" target="_blank" rel="noopener">Dr. Tom Corringham</a> at the intersection of Computer Science and Climate Science. I am also a part of the <a href="https://cw3e.ucsd.edu/" target="_blank" rel="noopener">Center for Western Weather and Water Extremes (CW3E)</a> at Scripps.<br><br>
+    bio: `I am a Ph.D. Candidate in the <a href="https://www.cs.ucdavis.edu/~ma/people.html" target="_blank" rel="noopener"><b>VIDI Research Group at UC Davis</b></a>, advised by <a href="https://www.cs.ucdavis.edu/~ma/" target="_blank" rel="noopener">Dr. Kwan-Liu Ma</a>. <br><br>
+    I am also a Visiting Ph.D. Researcher at <b>Scripps Institution of Oceanography at UC San Diego</b>, where I work with <a href="https://dcayan.scrippsprofiles.ucsd.edu/" target="_blank" rel="noopener">Dr. Daniel Cayan</a> and <a href="https://tcorringham.scrippsprofiles.ucsd.edu/" target="_blank" rel="noopener">Dr. Tom Corringham</a> at the intersection of Computer Science and Climate Science. I am also a part of the <a href="https://cw3e.ucsd.edu/" target="_blank" rel="noopener"><b>Center for Western Weather and Water Extremes (CW3E)</a> at Scripps.</b><br><br>
 
     My current research interests span GeoAI (e.g., climate risk assessment such as flood damage prediction), Interpretablity for GeoAI, and <em>Visual Analytics x Climate</em>, and my dissertation focuses on Visual Analytics for Geospatial Data.
   <br><br>
