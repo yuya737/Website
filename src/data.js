@@ -32,6 +32,18 @@ export const updates = [
 export const publications = [
     {
         title:
+            'A Spatially and Temporally Refined Dataset of CONUS Pluvial National Flood Insurance Program Claims',
+        authors: 'Yuya Kawakami and Tom Corringham',
+        venue: 'Zenodo (Dataset)',
+        year: '2026',
+        teaser: 'images/nfip-teaser.png',
+        links: [
+            { label: 'Zenodo', url: 'https://zenodo.org/records/23198153' },
+            { label: 'DOI', url: 'https://doi.org/10.5281/zenodo.23198153' },
+        ],
+    },
+    {
+        title:
             'DELUGE: Towards Continental-Scale Daily Pluvial Flood Damage Prediction via Interpretable Conditioning on Foundation Model Embeddings',
         authors: 'Yuya Kawakami, Daniel Cayan, Dongyu Liu, Kwan-Liu Ma, Tom Corringham',
         venue: 'ACM SIGSPATIAL (to appear)',

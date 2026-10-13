@@ -156,7 +156,7 @@ a:hover {
     flex-shrink: 0;
     width: 220px;
     height: 140px;
-    object-fit: cover;
+    object-fit: contain;
     background: #f7f7f7;
     border: 1px solid var(--border);
 }
