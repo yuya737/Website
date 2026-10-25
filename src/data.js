@@ -22,6 +22,7 @@ export const profile = {
 
 // Newest first.
 export const updates = [
+    { date: '2026-10', text: 'I have started a part-time appointment with the <b>Center for Western Weather and Water Extremes (CW3E)</b> at Scripps for the year. Excited to work more on climate/weather + ML problems, more details to follow as the project takes shape!' },
     { date: '2026-08', text: 'Our paper, DELUGE, was accepted to appear at <b>ACM SIGSPATIAL 2026</b>!' },
     { date: '2026-08', text: 'I passed my Qualifying Exam! Now a Candidate!' },
     { date: '2026-07', text: 'I will be at Scripps for the month for a Summer Appointment!' },
